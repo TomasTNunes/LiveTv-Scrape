@@ -1,3 +1,6 @@
 **/__pycache__
 .python-version
 scrape.log
+livetv.m3u
+epg-livetv.xml
+
