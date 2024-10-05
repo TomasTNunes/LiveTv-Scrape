@@ -1,5 +1,13 @@
 from playwright.sync_api import sync_playwright
 from channels import channels
+import os
+
+# Get the directory of the current script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Function to create full file paths
+def get_full_path(filename):
+    return os.path.join(script_dir, filename)
 
 # Scrape first url with token
 def get_token_url(page, url):
@@ -41,12 +49,12 @@ with sync_playwright() as p:
             browser.close()
 
 # Read livetv.m3u.template
-with open('livetv.m3u.template', 'r') as f1:
+with open(get_full_path('livetv.m3u.template'), 'r') as f1:
     content = f1.read()
 
 # Write livetv.m3u
 for name, channel in channels.items():
     content = content.replace(channel['replace_identifier'], channel['m3u8_url'])
 
-with open('livetv.m3u', 'w') as file:
+with open(get_full_path('livetv.m3u'), 'w') as file:
     file.write(content)
