@@ -19,7 +19,7 @@ def get_token_url(page, url):
     page.goto(url)
 
     # Wait for some time to allow network requests to be made
-    page.wait_for_timeout(1000)  # Adjust time as needed
+    page.wait_for_timeout(2000)  # Adjust time as needed
 
     return token_url
 
