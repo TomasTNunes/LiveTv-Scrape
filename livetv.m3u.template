@@ -39,32 +39,32 @@
 
 # --- DAZN PT ---
 
-#EXTINF:-1 group-title="Sports" tvg-id="DAZN1.pt" tvg-logo="https://github.com/TomasTNunes/open-web-links/blob/main/dazn-1.png?raw=true",DAZN 1
+#EXTINF:-1 group-title="Sports" tvg-id="Eleven1.pt" tvg-logo="https://github.com/TomasTNunes/open-web-links/blob/main/dazn-1.png?raw=true",DAZN 1
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://dazn.com/
 [DAZN 1 - m3u8 url]
 
-#EXTINF:-1 group-title="Sports" tvg-id="DAZN2.pt" tvg-logo="https://github.com/TomasTNunes/open-web-links/blob/main/dazn-2.png?raw=true",DAZN 2
+#EXTINF:-1 group-title="Sports" tvg-id="Eleven2.pt" tvg-logo="https://github.com/TomasTNunes/open-web-links/blob/main/dazn-2.png?raw=true",DAZN 2
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://dazn.com/
 [DAZN 2 - m3u8 url]
 
-#EXTINF:-1 group-title="Sports" tvg-id="DAZN3.pt" tvg-logo="https://github.com/TomasTNunes/open-web-links/blob/main/dazn-3.png?raw=true",DAZN 3
+#EXTINF:-1 group-title="Sports" tvg-id="Eleven3.pt" tvg-logo="https://github.com/TomasTNunes/open-web-links/blob/main/dazn-3.png?raw=true",DAZN 3
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://dazn.com/
 [DAZN 3 - m3u8 url]
 
-#EXTINF:-1 group-title="Sports" tvg-id="DAZN4.pt" tvg-logo="https://github.com/TomasTNunes/open-web-links/blob/main/dazn-4.png?raw=true",DAZN 4
+#EXTINF:-1 group-title="Sports" tvg-id="Eleven4.pt" tvg-logo="https://github.com/TomasTNunes/open-web-links/blob/main/dazn-4.png?raw=true",DAZN 4
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://dazn.com/
 [DAZN 4 - m3u8 url]
 
-#EXTINF:-1 group-title="Sports" tvg-id="DAZN5.pt" tvg-logo="https://github.com/TomasTNunes/open-web-links/blob/main/dazn-5.png?raw=true",DAZN 5
+#EXTINF:-1 group-title="Sports" tvg-id="Eleven5.pt" tvg-logo="https://github.com/TomasTNunes/open-web-links/blob/main/dazn-5.png?raw=true",DAZN 5
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://dazn.com/
 [DAZN 5 - m3u8 url]
 
-#EXTINF:-1 group-title="Sports" tvg-id="DAZN6.pt" tvg-logo="https://github.com/TomasTNunes/open-web-links/blob/main/dazn-6.png?raw=true",DAZN 6
+#EXTINF:-1 group-title="Sports" tvg-id="Eleven6.pt" tvg-logo="https://github.com/TomasTNunes/open-web-links/blob/main/dazn-6.png?raw=true",DAZN 6
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://dazn.com/
 [DAZN 6 - m3u8 url]
