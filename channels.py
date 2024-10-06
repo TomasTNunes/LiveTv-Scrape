@@ -58,4 +58,4 @@ channels = {
 
 # for common key values
 for n, c in channels.items():
-    c['m3u8_url'] = ''
+    c['m3u8_url'] = None
